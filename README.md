@@ -14,7 +14,7 @@
 
 ## 🧹 Part 1: UX Design Process (Figma + Sketches)
 
-### 📌 Goal: Design a fake eCommerce website selling products using [Fake Store API](https://raw.githubusercontent.com/dasingh9/ecommerce-website/refs/heads/master/products.json)
+### 📌 Goal: Design a fake eCommerce website selling products using [Fake Store API](https://fakestoreapi.com/products)
 
 ### 1.1 🔍 Requirements Gathering
 
@@ -105,7 +105,7 @@ ecommerce-lab/
 
 ### 2.3 📦 Product Cards (index.html)
 
-- Fetch products from [Fake Store API](https://raw.githubusercontent.com/dasingh9/ecommerce-website/refs/heads/master/products.json)
+- Fetch products from [Fake Store API](https://fakestoreapi.com/products)
 - Use `<template>` tag for product card
 - Use Bootstrap Card component:
   - Image
