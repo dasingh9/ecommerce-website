@@ -47,7 +47,7 @@ Create a clickable prototype in Figma:
 - Link navigation between pages
 - Use **Roboto** from Google Fonts
 
-### 1.4.1 Shop
+### 1.4.1 Shop (Landing Page)
 ![Shop](assets/shop.png)
 
 ### 1.4.2 Cart
