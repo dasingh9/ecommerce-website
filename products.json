@@ -1,0 +1,902 @@
+[
+  {
+    "productId": 1,
+    "productTitle": "Overwatch 2",
+    "productCategory": "Shooter",
+    "price": 88.56,
+    "quantity": 18,
+    "expiryDate": "2025-10-24",
+    "thumbnail": "https://www.freetogame.com/g/540/thumbnail.jpg"
+  },
+  {
+    "productId": 2,
+    "productTitle": "Lost Ark",
+    "productCategory": "ARPG",
+    "price": 51.98,
+    "quantity": 21,
+    "expiryDate": "2026-01-30",
+    "thumbnail": "https://www.freetogame.com/g/517/thumbnail.jpg"
+  },
+  {
+    "productId": 3,
+    "productTitle": "PUBG: BATTLEGROUNDS",
+    "productCategory": "Shooter",
+    "price": 24.64,
+    "quantity": 27,
+    "expiryDate": "2026-07-16",
+    "thumbnail": "https://www.freetogame.com/g/516/thumbnail.jpg"
+  },
+  {
+    "productId": 4,
+    "productTitle": "Enlisted",
+    "productCategory": "Shooter",
+    "price": 72.72,
+    "quantity": 5,
+    "expiryDate": "2025-09-10",
+    "thumbnail": "https://www.freetogame.com/g/508/thumbnail.jpg"
+  },
+  {
+    "productId": 5,
+    "productTitle": "Forge of Empires",
+    "productCategory": "Strategy",
+    "price": 50.99,
+    "quantity": 5,
+    "expiryDate": "2026-06-12",
+    "thumbnail": "https://www.freetogame.com/g/345/thumbnail.jpg"
+  },
+  {
+    "productId": 6,
+    "productTitle": "Genshin Impact",
+    "productCategory": "Action RPG",
+    "price": 76.34,
+    "quantity": 23,
+    "expiryDate": "2025-09-19",
+    "thumbnail": "https://www.freetogame.com/g/475/thumbnail.jpg"
+  },
+  {
+    "productId": 7,
+    "productTitle": "Fall Guys",
+    "productCategory": "Battle Royale",
+    "price": 63.95,
+    "quantity": 49,
+    "expiryDate": "2026-07-10",
+    "thumbnail": "https://www.freetogame.com/g/523/thumbnail.jpg"
+  },
+  {
+    "productId": 8,
+    "productTitle": "Game Of Thrones Winter Is Coming",
+    "productCategory": "Strategy",
+    "price": 55.87,
+    "quantity": 36,
+    "expiryDate": "2026-06-14",
+    "thumbnail": "https://www.freetogame.com/g/340/thumbnail.jpg"
+  },
+  {
+    "productId": 9,
+    "productTitle": "Elvenar",
+    "productCategory": "Strategy",
+    "price": 36.71,
+    "quantity": 43,
+    "expiryDate": "2026-06-08",
+    "thumbnail": "https://www.freetogame.com/g/347/thumbnail.jpg"
+  },
+  {
+    "productId": 10,
+    "productTitle": "Neverwinter",
+    "productCategory": "MMORPG",
+    "price": 96.56,
+    "quantity": 20,
+    "expiryDate": "2026-04-21",
+    "thumbnail": "https://www.freetogame.com/g/11/thumbnail.jpg"
+  },
+  {
+    "productId": 11,
+    "productTitle": "Dark Orbit Reloaded",
+    "productCategory": "Shooter",
+    "price": 14.42,
+    "quantity": 7,
+    "expiryDate": "2025-09-01",
+    "thumbnail": "https://www.freetogame.com/g/380/thumbnail.jpg"
+  },
+  {
+    "productId": 12,
+    "productTitle": "Titan Revenge",
+    "productCategory": "MMORPG",
+    "price": 91.83,
+    "quantity": 40,
+    "expiryDate": "2026-01-19",
+    "thumbnail": "https://www.freetogame.com/g/573/thumbnail.jpg"
+  },
+  {
+    "productId": 13,
+    "productTitle": "Diablo Immortal",
+    "productCategory": "MMOARPG",
+    "price": 18.28,
+    "quantity": 39,
+    "expiryDate": "2025-11-01",
+    "thumbnail": "https://www.freetogame.com/g/521/thumbnail.jpg"
+  },
+  {
+    "productId": 14,
+    "productTitle": "Flyff Universe",
+    "productCategory": "MMORPG",
+    "price": 48.51,
+    "quantity": 18,
+    "expiryDate": "2026-06-17",
+    "thumbnail": "https://www.freetogame.com/g/522/thumbnail.jpg"
+  },
+  {
+    "productId": 15,
+    "productTitle": "Phantasy Star Online 2 New Genesis",
+    "productCategory": "MMORPG",
+    "price": 67.17,
+    "quantity": 49,
+    "expiryDate": "2026-07-14",
+    "thumbnail": "https://www.freetogame.com/g/511/thumbnail.jpg"
+  },
+  {
+    "productId": 16,
+    "productTitle": "Eternal Fury",
+    "productCategory": "MMORPG",
+    "price": 27.94,
+    "quantity": 41,
+    "expiryDate": "2025-12-26",
+    "thumbnail": "https://www.freetogame.com/g/455/thumbnail.jpg"
+  },
+  {
+    "productId": 17,
+    "productTitle": "Crossout",
+    "productCategory": "Shooter",
+    "price": 84.96,
+    "quantity": 10,
+    "expiryDate": "2026-01-18",
+    "thumbnail": "https://www.freetogame.com/g/5/thumbnail.jpg"
+  },
+  {
+    "productId": 18,
+    "productTitle": "World of Warships",
+    "productCategory": "Shooter",
+    "price": 40.21,
+    "quantity": 24,
+    "expiryDate": "2026-02-02",
+    "thumbnail": "https://www.freetogame.com/g/9/thumbnail.jpg"
+  },
+  {
+    "productId": 19,
+    "productTitle": "War Thunder",
+    "productCategory": "Shooter",
+    "price": 23.05,
+    "quantity": 4,
+    "expiryDate": "2026-05-05",
+    "thumbnail": "https://www.freetogame.com/g/12/thumbnail.jpg"
+  },
+  {
+    "productId": 20,
+    "productTitle": "World of Tanks",
+    "productCategory": "Shooter",
+    "price": 27.03,
+    "quantity": 34,
+    "expiryDate": "2026-05-16",
+    "thumbnail": "https://www.freetogame.com/g/2/thumbnail.jpg"
+  },
+  {
+    "productId": 21,
+    "productTitle": "XDefiant",
+    "productCategory": "Shooter",
+    "price": 38.02,
+    "quantity": 41,
+    "expiryDate": "2026-05-12",
+    "thumbnail": "https://www.freetogame.com/g/581/thumbnail.jpg"
+  },
+  {
+    "productId": 22,
+    "productTitle": "Palia",
+    "productCategory": "MMORPG",
+    "price": 44.8,
+    "quantity": 12,
+    "expiryDate": "2026-04-24",
+    "thumbnail": "https://www.freetogame.com/g/560/thumbnail.jpg"
+  },
+  {
+    "productId": 23,
+    "productTitle": "Halo Infinite",
+    "productCategory": "Shooter",
+    "price": 19.09,
+    "quantity": 43,
+    "expiryDate": "2025-10-11",
+    "thumbnail": "https://www.freetogame.com/g/515/thumbnail.jpg"
+  },
+  {
+    "productId": 24,
+    "productTitle": "League of Angels - Heaven's Fury",
+    "productCategory": "MMORPG",
+    "price": 29.81,
+    "quantity": 35,
+    "expiryDate": "2026-06-01",
+    "thumbnail": "https://www.freetogame.com/g/458/thumbnail.jpg"
+  },
+  {
+    "productId": 25,
+    "productTitle": "Star Trek Online",
+    "productCategory": "MMORPG",
+    "price": 91.03,
+    "quantity": 22,
+    "expiryDate": "2026-05-13",
+    "thumbnail": "https://www.freetogame.com/g/14/thumbnail.jpg"
+  },
+  {
+    "productId": 26,
+    "productTitle": "Tower of Fantasy",
+    "productCategory": "MMORPG",
+    "price": 53.09,
+    "quantity": 9,
+    "expiryDate": "2026-05-22",
+    "thumbnail": "https://www.freetogame.com/g/529/thumbnail.jpg"
+  },
+  {
+    "productId": 27,
+    "productTitle": "Noah's Heart",
+    "productCategory": "MMORPG",
+    "price": 41.59,
+    "quantity": 30,
+    "expiryDate": "2025-10-07",
+    "thumbnail": "https://www.freetogame.com/g/528/thumbnail.jpg"
+  },
+  {
+    "productId": 28,
+    "productTitle": "Valorant",
+    "productCategory": "Shooter",
+    "price": 19.15,
+    "quantity": 15,
+    "expiryDate": "2025-09-24",
+    "thumbnail": "https://www.freetogame.com/g/466/thumbnail.jpg"
+  },
+  {
+    "productId": 29,
+    "productTitle": "Phantasy Star Online 2",
+    "productCategory": "MMORPG",
+    "price": 38.11,
+    "quantity": 20,
+    "expiryDate": "2026-03-16",
+    "thumbnail": "https://www.freetogame.com/g/467/thumbnail.jpg"
+  },
+  {
+    "productId": 30,
+    "productTitle": "Call Of Duty: Warzone",
+    "productCategory": "Shooter",
+    "price": 46.3,
+    "quantity": 38,
+    "expiryDate": "2025-08-29",
+    "thumbnail": "https://www.freetogame.com/g/452/thumbnail.jpg"
+  },
+  {
+    "productId": 31,
+    "productTitle": "Destiny 2",
+    "productCategory": "Shooter",
+    "price": 99.97,
+    "quantity": 46,
+    "expiryDate": "2026-07-01",
+    "thumbnail": "https://www.freetogame.com/g/21/thumbnail.jpg"
+  },
+  {
+    "productId": 32,
+    "productTitle": "Dauntless",
+    "productCategory": "MMORPG",
+    "price": 69.07,
+    "quantity": 33,
+    "expiryDate": "2026-03-05",
+    "thumbnail": "https://www.freetogame.com/g/1/thumbnail.jpg"
+  },
+  {
+    "productId": 33,
+    "productTitle": "Apex Legends",
+    "productCategory": "Shooter",
+    "price": 11.51,
+    "quantity": 36,
+    "expiryDate": "2026-01-10",
+    "thumbnail": "https://www.freetogame.com/g/23/thumbnail.jpg"
+  },
+  {
+    "productId": 34,
+    "productTitle": "Fortnite",
+    "productCategory": "Shooter",
+    "price": 58.37,
+    "quantity": 47,
+    "expiryDate": "2025-08-22",
+    "thumbnail": "https://www.freetogame.com/g/57/thumbnail.jpg"
+  },
+  {
+    "productId": 35,
+    "productTitle": "Albion Online",
+    "productCategory": "MMORPG",
+    "price": 57.26,
+    "quantity": 49,
+    "expiryDate": "2025-10-20",
+    "thumbnail": "https://www.freetogame.com/g/449/thumbnail.jpg"
+  },
+  {
+    "productId": 36,
+    "productTitle": "Blade and Soul",
+    "productCategory": "MMORPG",
+    "price": 17.81,
+    "quantity": 4,
+    "expiryDate": "2025-12-19",
+    "thumbnail": "https://www.freetogame.com/g/6/thumbnail.jpg"
+  },
+  {
+    "productId": 37,
+    "productTitle": "Brawlhalla",
+    "productCategory": "Fighting",
+    "price": 28.29,
+    "quantity": 9,
+    "expiryDate": "2025-10-04",
+    "thumbnail": "https://www.freetogame.com/g/212/thumbnail.jpg"
+  },
+  {
+    "productId": 38,
+    "productTitle": "Trove",
+    "productCategory": "MMORPG",
+    "price": 17.11,
+    "quantity": 6,
+    "expiryDate": "2026-04-26",
+    "thumbnail": "https://www.freetogame.com/g/8/thumbnail.jpg"
+  },
+  {
+    "productId": 39,
+    "productTitle": "Smite",
+    "productCategory": "MOBA",
+    "price": 55.65,
+    "quantity": 24,
+    "expiryDate": "2025-11-28",
+    "thumbnail": "https://www.freetogame.com/g/217/thumbnail.jpg"
+  },
+  {
+    "productId": 40,
+    "productTitle": "Warframe",
+    "productCategory": "Shooter",
+    "price": 97.8,
+    "quantity": 20,
+    "expiryDate": "2025-10-14",
+    "thumbnail": "https://www.freetogame.com/g/3/thumbnail.jpg"
+  },
+  {
+    "productId": 41,
+    "productTitle": "Guild Wars 2",
+    "productCategory": "MMORPG",
+    "price": 82.44,
+    "quantity": 6,
+    "expiryDate": "2026-03-01",
+    "thumbnail": "https://www.freetogame.com/g/13/thumbnail.jpg"
+  },
+  {
+    "productId": 42,
+    "productTitle": "Goodgame Empire",
+    "productCategory": "Strategy",
+    "price": 34.44,
+    "quantity": 39,
+    "expiryDate": "2026-04-30",
+    "thumbnail": "https://www.freetogame.com/g/350/thumbnail.jpg"
+  },
+  {
+    "productId": 43,
+    "productTitle": "Drakensang Online",
+    "productCategory": "MMORPG",
+    "price": 79.88,
+    "quantity": 16,
+    "expiryDate": "2026-06-29",
+    "thumbnail": "https://www.freetogame.com/g/427/thumbnail.jpg"
+  },
+  {
+    "productId": 44,
+    "productTitle": "RuneScape",
+    "productCategory": "MMORPG",
+    "price": 21.5,
+    "quantity": 43,
+    "expiryDate": "2025-09-23",
+    "thumbnail": "https://www.freetogame.com/g/433/thumbnail.jpg"
+  },
+  {
+    "productId": 45,
+    "productTitle": "Stronghold Kingdoms",
+    "productCategory": "Strategy",
+    "price": 54.9,
+    "quantity": 30,
+    "expiryDate": "2025-11-23",
+    "thumbnail": "https://www.freetogame.com/g/255/thumbnail.jpg"
+  },
+  {
+    "productId": 46,
+    "productTitle": "Screenplay CCG",
+    "productCategory": "Card",
+    "price": 89.36,
+    "quantity": 39,
+    "expiryDate": "2026-03-22",
+    "thumbnail": "https://www.freetogame.com/g/580/thumbnail.jpg"
+  },
+  {
+    "productId": 47,
+    "productTitle": "Predecessor",
+    "productCategory": "MOBA",
+    "price": 54.44,
+    "quantity": 15,
+    "expiryDate": "2026-07-10",
+    "thumbnail": "https://www.freetogame.com/g/578/thumbnail.jpg"
+  },
+  {
+    "productId": 48,
+    "productTitle": "Project Apidom",
+    "productCategory": "MOBA",
+    "price": 78.62,
+    "quantity": 50,
+    "expiryDate": "2025-11-25",
+    "thumbnail": "https://www.freetogame.com/g/579/thumbnail.jpg"
+  },
+  {
+    "productId": 49,
+    "productTitle": "Ravendawn",
+    "productCategory": "MMORPG",
+    "price": 58.12,
+    "quantity": 12,
+    "expiryDate": "2025-11-04",
+    "thumbnail": "https://www.freetogame.com/g/572/thumbnail.jpg"
+  },
+  {
+    "productId": 50,
+    "productTitle": "Kritika: Zero",
+    "productCategory": "MMORPG",
+    "price": 96.36,
+    "quantity": 26,
+    "expiryDate": "2026-04-11",
+    "thumbnail": "https://www.freetogame.com/g/62/thumbnail.jpg"
+  },
+  {
+    "productId": 51,
+    "productTitle": "One Punch Man: World",
+    "productCategory": "Action Game",
+    "price": 41.97,
+    "quantity": 47,
+    "expiryDate": "2026-04-06",
+    "thumbnail": "https://www.freetogame.com/g/575/thumbnail.jpg"
+  },
+  {
+    "productId": 52,
+    "productTitle": "Battle Teams 2",
+    "productCategory": "Shooter",
+    "price": 74.56,
+    "quantity": 37,
+    "expiryDate": "2025-11-26",
+    "thumbnail": "https://www.freetogame.com/g/576/thumbnail.jpg"
+  },
+  {
+    "productId": 53,
+    "productTitle": "The Finals",
+    "productCategory": "Shooter",
+    "price": 96.15,
+    "quantity": 20,
+    "expiryDate": "2026-01-07",
+    "thumbnail": "https://www.freetogame.com/g/570/thumbnail.jpg"
+  },
+  {
+    "productId": 54,
+    "productTitle": "Infinite Borders",
+    "productCategory": "Strategy",
+    "price": 96.05,
+    "quantity": 45,
+    "expiryDate": "2025-09-04",
+    "thumbnail": "https://www.freetogame.com/g/571/thumbnail.jpg"
+  },
+  {
+    "productId": 55,
+    "productTitle": "Destiny's Divide",
+    "productCategory": "Card",
+    "price": 16.95,
+    "quantity": 5,
+    "expiryDate": "2026-01-28",
+    "thumbnail": "https://www.freetogame.com/g/569/thumbnail.jpg"
+  },
+  {
+    "productId": 56,
+    "productTitle": "Warhammer 40,000: Warpforge",
+    "productCategory": "Card",
+    "price": 78.89,
+    "quantity": 34,
+    "expiryDate": "2025-09-25",
+    "thumbnail": "https://www.freetogame.com/g/568/thumbnail.jpg"
+  },
+  {
+    "productId": 57,
+    "productTitle": "Synced",
+    "productCategory": "Shooter",
+    "price": 28.01,
+    "quantity": 49,
+    "expiryDate": "2025-09-27",
+    "thumbnail": "https://www.freetogame.com/g/564/thumbnail.jpg"
+  },
+  {
+    "productId": 58,
+    "productTitle": "Microvolts: Recharged",
+    "productCategory": "Shooter",
+    "price": 17.71,
+    "quantity": 39,
+    "expiryDate": "2026-02-06",
+    "thumbnail": "https://www.freetogame.com/g/567/thumbnail.jpg"
+  },
+  {
+    "productId": 59,
+    "productTitle": "Deceit 2",
+    "productCategory": "Action",
+    "price": 59.56,
+    "quantity": 31,
+    "expiryDate": "2025-11-06",
+    "thumbnail": "https://www.freetogame.com/g/577/thumbnail.jpg"
+  },
+  {
+    "productId": 60,
+    "productTitle": "Hawked",
+    "productCategory": "Shooter",
+    "price": 85.72,
+    "quantity": 33,
+    "expiryDate": "2026-07-11",
+    "thumbnail": "https://www.freetogame.com/g/558/thumbnail.jpg"
+  },
+  {
+    "productId": 61,
+    "productTitle": "Tales Of Yore",
+    "productCategory": "MMORPG",
+    "price": 84.7,
+    "quantity": 25,
+    "expiryDate": "2025-10-24",
+    "thumbnail": "https://www.freetogame.com/g/559/thumbnail.jpg"
+  },
+  {
+    "productId": 62,
+    "productTitle": "Waven",
+    "productCategory": "Strategy",
+    "price": 35.79,
+    "quantity": 50,
+    "expiryDate": "2026-04-04",
+    "thumbnail": "https://www.freetogame.com/g/562/thumbnail.jpg"
+  },
+  {
+    "productId": 63,
+    "productTitle": "Town of Salem 2",
+    "productCategory": "Strategy",
+    "price": 38.64,
+    "quantity": 39,
+    "expiryDate": "2026-05-14",
+    "thumbnail": "https://www.freetogame.com/g/566/thumbnail.jpg"
+  },
+  {
+    "productId": 64,
+    "productTitle": "Naraka: Bladepoint",
+    "productCategory": "Battle Royale",
+    "price": 38.38,
+    "quantity": 21,
+    "expiryDate": "2025-12-13",
+    "thumbnail": "https://www.freetogame.com/g/556/thumbnail.jpg"
+  },
+  {
+    "productId": 65,
+    "productTitle": "Undawn",
+    "productCategory": "Shooter",
+    "price": 53.38,
+    "quantity": 50,
+    "expiryDate": "2025-10-03",
+    "thumbnail": "https://www.freetogame.com/g/554/thumbnail.jpg"
+  },
+  {
+    "productId": 66,
+    "productTitle": "Eden Eternal",
+    "productCategory": "MMORPG",
+    "price": 43.94,
+    "quantity": 41,
+    "expiryDate": "2025-09-21",
+    "thumbnail": "https://www.freetogame.com/g/268/thumbnail.jpg"
+  },
+  {
+    "productId": 67,
+    "productTitle": "Veiled Experts",
+    "productCategory": "Shooter",
+    "price": 80.39,
+    "quantity": 11,
+    "expiryDate": "2025-11-06",
+    "thumbnail": "https://www.freetogame.com/g/551/thumbnail.jpg"
+  },
+  {
+    "productId": 68,
+    "productTitle": "Jected - Rivals",
+    "productCategory": "Sports",
+    "price": 60.96,
+    "quantity": 27,
+    "expiryDate": "2026-04-30",
+    "thumbnail": "https://www.freetogame.com/g/552/thumbnail.jpg"
+  },
+  {
+    "productId": 69,
+    "productTitle": "Ethyrial: Echoes of Yore",
+    "productCategory": "MMORPG",
+    "price": 61.11,
+    "quantity": 23,
+    "expiryDate": "2026-06-21",
+    "thumbnail": "https://www.freetogame.com/g/557/thumbnail.jpg"
+  },
+  {
+    "productId": 70,
+    "productTitle": "Mad World",
+    "productCategory": "MMORPG",
+    "price": 76.54,
+    "quantity": 20,
+    "expiryDate": "2025-12-28",
+    "thumbnail": "https://www.freetogame.com/g/574/thumbnail.jpg"
+  },
+  {
+    "productId": 71,
+    "productTitle": "Dead Cide Club",
+    "productCategory": "Shooter",
+    "price": 80.19,
+    "quantity": 11,
+    "expiryDate": "2026-04-04",
+    "thumbnail": "https://www.freetogame.com/g/548/thumbnail.jpg"
+  },
+  {
+    "productId": 72,
+    "productTitle": "Kartrider: Drift",
+    "productCategory": "Racing",
+    "price": 61.5,
+    "quantity": 19,
+    "expiryDate": "2026-05-27",
+    "thumbnail": "https://www.freetogame.com/g/546/thumbnail.jpg"
+  },
+  {
+    "productId": 73,
+    "productTitle": "Warlander",
+    "productCategory": "MOBA",
+    "price": 89.73,
+    "quantity": 5,
+    "expiryDate": "2026-01-19",
+    "thumbnail": "https://www.freetogame.com/g/547/thumbnail.jpg"
+  },
+  {
+    "productId": 74,
+    "productTitle": "Fangs",
+    "productCategory": "MOBA",
+    "price": 72.59,
+    "quantity": 1,
+    "expiryDate": "2026-02-19",
+    "thumbnail": "https://www.freetogame.com/g/545/thumbnail.jpg"
+  },
+  {
+    "productId": 75,
+    "productTitle": "Summoners War: Chronicles",
+    "productCategory": "MMORPG",
+    "price": 72.24,
+    "quantity": 24,
+    "expiryDate": "2026-03-24",
+    "thumbnail": "https://www.freetogame.com/g/549/thumbnail.jpg"
+  },
+  {
+    "productId": 76,
+    "productTitle": "Marvel Snap",
+    "productCategory": "Card Game",
+    "price": 93.91,
+    "quantity": 15,
+    "expiryDate": "2026-06-11",
+    "thumbnail": "https://www.freetogame.com/g/541/thumbnail.jpg"
+  },
+  {
+    "productId": 77,
+    "productTitle": "World Boss",
+    "productCategory": "Shooter",
+    "price": 75.82,
+    "quantity": 12,
+    "expiryDate": "2026-06-03",
+    "thumbnail": "https://www.freetogame.com/g/542/thumbnail.jpg"
+  },
+  {
+    "productId": 78,
+    "productTitle": "Omega Strikers",
+    "productCategory": "Sports",
+    "price": 51.22,
+    "quantity": 45,
+    "expiryDate": "2026-01-07",
+    "thumbnail": "https://www.freetogame.com/g/536/thumbnail.jpg"
+  },
+  {
+    "productId": 79,
+    "productTitle": "Gundam Evolution",
+    "productCategory": "Shooter",
+    "price": 30.52,
+    "quantity": 40,
+    "expiryDate": "2025-12-24",
+    "thumbnail": "https://www.freetogame.com/g/537/thumbnail.jpg"
+  },
+  {
+    "productId": 80,
+    "productTitle": "Deathverse: Let It Die",
+    "productCategory": "Battle Royale",
+    "price": 42.6,
+    "quantity": 45,
+    "expiryDate": "2026-02-23",
+    "thumbnail": "https://www.freetogame.com/g/539/thumbnail.jpg"
+  },
+  {
+    "productId": 81,
+    "productTitle": "Galahad 3093",
+    "productCategory": "Shooter",
+    "price": 78.71,
+    "quantity": 37,
+    "expiryDate": "2025-10-17",
+    "thumbnail": "https://www.freetogame.com/g/544/thumbnail.jpg"
+  },
+  {
+    "productId": 82,
+    "productTitle": "Aero Tales Online",
+    "productCategory": "MMORPG",
+    "price": 93.76,
+    "quantity": 26,
+    "expiryDate": "2026-01-05",
+    "thumbnail": "https://www.freetogame.com/g/527/thumbnail.jpg"
+  },
+  {
+    "productId": 83,
+    "productTitle": "Magic Spellslingers",
+    "productCategory": "Card Game",
+    "price": 19.21,
+    "quantity": 9,
+    "expiryDate": "2026-04-05",
+    "thumbnail": "https://www.freetogame.com/g/531/thumbnail.jpg"
+  },
+  {
+    "productId": 84,
+    "productTitle": "A.V.A Global",
+    "productCategory": "Shooter",
+    "price": 25.9,
+    "quantity": 29,
+    "expiryDate": "2026-05-24",
+    "thumbnail": "https://www.freetogame.com/g/533/thumbnail.jpg"
+  },
+  {
+    "productId": 85,
+    "productTitle": "Lost Light",
+    "productCategory": "Shooter",
+    "price": 82.54,
+    "quantity": 4,
+    "expiryDate": "2026-05-07",
+    "thumbnail": "https://www.freetogame.com/g/534/thumbnail.jpg"
+  },
+  {
+    "productId": 86,
+    "productTitle": "Temperia: Soul of Majestic",
+    "productCategory": "Card Game",
+    "price": 57.29,
+    "quantity": 4,
+    "expiryDate": "2025-11-29",
+    "thumbnail": "https://www.freetogame.com/g/524/thumbnail.jpg"
+  },
+  {
+    "productId": 87,
+    "productTitle": "MultiVersus",
+    "productCategory": "Fighting",
+    "price": 73.71,
+    "quantity": 10,
+    "expiryDate": "2026-01-28",
+    "thumbnail": "https://www.freetogame.com/g/525/thumbnail.jpg"
+  },
+  {
+    "productId": 88,
+    "productTitle": "Chimeraland",
+    "productCategory": "MMORPG",
+    "price": 76.02,
+    "quantity": 14,
+    "expiryDate": "2026-06-30",
+    "thumbnail": "https://www.freetogame.com/g/526/thumbnail.jpg"
+  },
+  {
+    "productId": 89,
+    "productTitle": "World of Runes",
+    "productCategory": "MMORPG",
+    "price": 53.88,
+    "quantity": 5,
+    "expiryDate": "2026-04-26",
+    "thumbnail": "https://www.freetogame.com/g/532/thumbnail.jpg"
+  },
+  {
+    "productId": 90,
+    "productTitle": "Roller Champions",
+    "productCategory": "Sports",
+    "price": 72.21,
+    "quantity": 1,
+    "expiryDate": "2025-09-05",
+    "thumbnail": "https://www.freetogame.com/g/520/thumbnail.jpg"
+  },
+  {
+    "productId": 91,
+    "productTitle": "Goose, Goose, DUCK",
+    "productCategory": "Strategy",
+    "price": 39.57,
+    "quantity": 46,
+    "expiryDate": "2026-04-03",
+    "thumbnail": "https://www.freetogame.com/g/550/thumbnail.jpg"
+  },
+  {
+    "productId": 92,
+    "productTitle": "Super Squad",
+    "productCategory": "MOBA",
+    "price": 59.88,
+    "quantity": 20,
+    "expiryDate": "2025-09-27",
+    "thumbnail": "https://www.freetogame.com/g/513/thumbnail.jpg"
+  },
+  {
+    "productId": 93,
+    "productTitle": "Sherwood Extreme",
+    "productCategory": "Shooter",
+    "price": 15.99,
+    "quantity": 24,
+    "expiryDate": "2026-05-16",
+    "thumbnail": "https://www.freetogame.com/g/512/thumbnail.jpg"
+  },
+  {
+    "productId": 94,
+    "productTitle": "Smash Legends",
+    "productCategory": "Fighting",
+    "price": 28.12,
+    "quantity": 5,
+    "expiryDate": "2026-02-28",
+    "thumbnail": "https://www.freetogame.com/g/509/thumbnail.jpg"
+  },
+  {
+    "productId": 95,
+    "productTitle": "Drifters Loot the Galaxy",
+    "productCategory": "Shooter",
+    "price": 89.41,
+    "quantity": 50,
+    "expiryDate": "2025-12-29",
+    "thumbnail": "https://www.freetogame.com/g/510/thumbnail.jpg"
+  },
+  {
+    "productId": 96,
+    "productTitle": "Primordials: Battle of Gods",
+    "productCategory": "Strategy",
+    "price": 98.5,
+    "quantity": 34,
+    "expiryDate": "2026-06-12",
+    "thumbnail": "https://www.freetogame.com/g/502/thumbnail.jpg"
+  },
+  {
+    "productId": 97,
+    "productTitle": "Super Mecha Champions",
+    "productCategory": "Shooter",
+    "price": 96.58,
+    "quantity": 46,
+    "expiryDate": "2025-11-03",
+    "thumbnail": "https://www.freetogame.com/g/507/thumbnail.jpg"
+  },
+  {
+    "productId": 98,
+    "productTitle": "Chroma: Bloom And Blight",
+    "productCategory": "Card Game",
+    "price": 38.43,
+    "quantity": 22,
+    "expiryDate": "2025-12-14",
+    "thumbnail": "https://www.freetogame.com/g/500/thumbnail.jpg"
+  },
+  {
+    "productId": 99,
+    "productTitle": "Blankos Block Party",
+    "productCategory": "MMO",
+    "price": 39.53,
+    "quantity": 9,
+    "expiryDate": "2026-05-19",
+    "thumbnail": "https://www.freetogame.com/g/498/thumbnail.jpg"
+  },
+  {
+    "productId": 100,
+    "productTitle": "Slapshot: Rebound",
+    "productCategory": "Sports",
+    "price": 56.7,
+    "quantity": 32,
+    "expiryDate": "2026-04-27",
+    "thumbnail": "https://www.freetogame.com/g/499/thumbnail.jpg"
+  }
+]
